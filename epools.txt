@@ -1,0 +1,4 @@
+POOL: eth-eu2.nanopool.org:9999, WALLET: 0x357e9b40016fa4439c2b2da4ca7d6ea16fdc7115/nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: eth-us-east1.nanopool.org:9999, WALLET: 0x357e9b40016fa4439c2b2da4ca7d6ea16fdc7115/nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: eth-us-west1.nanopool.org:9999, WALLET: 0x357e9b40016fa4439c2b2da4ca7d6ea16fdc7115/nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: eth-asia1.nanopool.org:9999, WALLET: 0x357e9b40016fa4439c2b2da4ca7d6ea16fdc7115/nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0

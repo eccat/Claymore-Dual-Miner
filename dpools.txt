@@ -1,0 +1,6 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+POOL: pasc-eu1.nanopool.org:15555, WALLET: 86646-64.1a053ff0c4f6246c.ncus-nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-us-east1.nanopool.org:15555, WALLET: 86646-64.1a053ff0c4f6246c.ncus-nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-us-west1.nanopool.org:15555, WALLET: 86646-64.1a053ff0c4f6246c.ncus-nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
+POOL: pasc-asia1.nanopool.org:15555, WALLET: 86646-64.1a053ff0c4f6246c.ncus-nc24r-m1/eccat@protonmail.ch, PSW: x, WORKER: , ESM: 0, ALLPOOLS: 0
